@@ -78,7 +78,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#dd6f81"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 			"name": "Boolean Function",
 			"scope": [
 				"constant.language",
-				"storage.type.function.js"
+				"storage.type.function.js",
 			],
 			"settings": {
 				"foreground": "#d3bd74",
@@ -124,10 +124,11 @@
 				"meta.tag.js",
 				"constant.other.color",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"punctuation.definition.comment.js"
 			],
 			"settings": {
-				"foreground": "#999999d8"
+				"foreground": "#999999"
 			}
 		},
 		{
@@ -200,7 +201,8 @@
 				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+				"invalid.illegal.bad-ampersand.js"
 			],
 			"settings": {
 				"foreground": "#70ffacd2"
@@ -264,6 +266,9 @@
 				"meta.object.member.js",
 				"entity.name.module.js",
 				"variable.import.parameter.js",
+				"keyword.operator.assignment.js",
+				"storage.type.function.arrow.js",
+				"keyword.operator.ternary.js"
 			],
 			"settings": {
 				"foreground": "#e2b5de",
@@ -367,7 +372,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#f1528f"
 			}
 		},
 		{
@@ -568,7 +573,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f07178"
+				"foreground": "#f07186"
 			}
 		},
 		{
@@ -579,7 +584,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#f07186"
 			}
 		},
 		{
@@ -594,7 +599,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#f07186"
 			}
 		},
 		{
@@ -604,7 +609,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#f07186"
 			}
 		},
 		{

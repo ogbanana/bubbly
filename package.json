@@ -1,16 +1,16 @@
 {
     "name": "bubbly",
-    "displayName": "bubbly",
-    "description": "Bubbly bubbly dark theme",
-    "version": "0.0.2",
+    "displayName": "Bubbly",
+    "description": "This is a bubble dark theme with many colors.",
+    "version": "1.0.0",
+    "icon": "icon-192x192.png",
     "publisher": "ogbanana",
     "keywords": [
-        "theme",
+        "bubbly dark theme",
         "colorful theme",
-        "dark theme",
-        "ogbanana",
+        "colors",
         "rainbow",
-        "bubbly dark theme"
+        "ogbanana theme"
     ],
     "repository": {
         "type": "git",
