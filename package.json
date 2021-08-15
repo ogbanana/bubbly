@@ -4,9 +4,17 @@
     "description": "Bubbly bubbly dark theme",
     "version": "0.0.1",
     "publisher": "ogbanana",
+    "keywords": [
+        "theme",
+        "colorful theme",
+        "dark theme",
+        "ogbanana",
+        "rainbow",
+        "bubbly dark"
+    ],
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/ogbanana/bubbly"
     },
     "engines": {
         "vscode": "^1.59.0"
