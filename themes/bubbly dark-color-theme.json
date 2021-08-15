@@ -263,12 +263,13 @@
 		{
 			"name": "Sub-methods",
 			"scope": [
+				"keyword.operator",
+				"support.variable",
+				"punctuation.accessor.js",
 				"meta.object.member.js",
 				"entity.name.module.js",
 				"variable.import.parameter.js",
-				"keyword.operator.assignment.js",
 				"storage.type.function.arrow.js",
-				"keyword.operator.ternary.js",
 				"punctuation.separator.dictionary.key-value.json",
 				"punctuation.separator.key-value.js"
 			],
@@ -392,7 +393,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#8995ff"
 			}
 		},
 		{
