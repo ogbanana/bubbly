@@ -3,7 +3,7 @@
     "displayName": "Bubbly",
     "description": "This is a bubble dark theme with many colors.",
     "version": "1.0.0",
-    "icon": "icon-192x192.png",
+    "icon": "themes/icon-192x192.png",
     "publisher": "ogbanana",
     "keywords": [
         "bubbly dark theme",
