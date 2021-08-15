@@ -2,6 +2,7 @@
 	"name": "bubbly dark",
 	"type": "dark",
 	"colors": {
+		"titleBar.activeBackground":"#101018",
 		"editor.background": "#101018",
 		"editor.foreground": "#909090",
 		"activityBarBadge.background": "#70ffac",
@@ -16,7 +17,7 @@
 		"tab.inactiveBackground":"#1a181f",
 		"tab.border":"#FFCB6B90",
 		"editor.selectionBackground":"#eb7b5a40",
-		"editor.wordHighlightBackground": "#5f393f20",
+		"editor.wordHighlightBackground": "#33272920",
 		"statusBar.background": "#F78C6C20",
 		"terminal.border":"#1ee5ff60",
 		"terminal.ansiBlue": "#1ee5ff",
@@ -29,7 +30,8 @@
 			"scope": [
 				"comment",
 				"punctuation",
-				"source.ignore"
+				"source.ignore",
+				"comment.line.double-slash.js"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -44,7 +46,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#eb7b5acc"
+				"foreground": "#f09a80cc"
 			}
 		},
 		{
@@ -93,6 +95,12 @@
 			"scope": [
 				"storage.modifier",
 				"keyword.operator.new.js",
+				"punctuation.section.embedded",
+				"punctuation.definition.tag",
+				"punctuation.separator.inheritance.php",
+				"punctuation.definition.tag.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
 				"foreground": "#7ae2fc",
@@ -113,19 +121,13 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
+				"meta.tag.js",
 				"constant.other.color",
-				"meta.tag",
-				"punctuation.definition.tag",
-				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#999999cc"
+				"foreground": "#999999d8"
 			}
 		},
 		{
