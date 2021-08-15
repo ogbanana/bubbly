@@ -1,0 +1,26 @@
+{
+    "name": "bubbly",
+    "displayName": "bubbly",
+    "description": "Bubbly bubbly dark theme",
+    "version": "0.0.1",
+    "publisher": "ogbanana",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "bubbly dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bubbly dark-color-theme.json"
+            }
+        ]
+    }
+}
