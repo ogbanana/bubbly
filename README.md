@@ -1,2 +1,2 @@
 # Bubbly Bubbly Dark Theme
-Making this theme for funsies.
+This is a theme made for fun.
