@@ -268,7 +268,9 @@
 				"variable.import.parameter.js",
 				"keyword.operator.assignment.js",
 				"storage.type.function.arrow.js",
-				"keyword.operator.ternary.js"
+				"keyword.operator.ternary.js",
+				"punctuation.separator.dictionary.key-value.json",
+				"punctuation.separator.key-value.js"
 			],
 			"settings": {
 				"foreground": "#e2b5de",
